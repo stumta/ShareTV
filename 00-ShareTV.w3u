@@ -1,0 +1,197 @@
+
+
+
+{
+"name": "Share My Link",
+author:"UPDATE 21/02/66",
+"image": "https://dl.dropbox.com/s/5hdypdtffq19fwr/ShareMyLink.jpg",
+"url": "https://dl.dropbox.com/s/n19sluh936psmkf/00-IPTV.w3u",
+
+#========= http://tiny.cc/1221TV
+
+"groups": [
+
+{
+"name"              :     "01-Digital TV",
+"image"             :     "https://www.i-pic.info/i/1DJq365480.jpg",
+"url"               :     "https://dl.dropbox.com/s/nykvictakofdlww/01-DigitalTV.w3u",
+"import": false
+}, 
+
+{
+"name"              :     "02-TV International",
+"image"             :     "https://www.i-pic.info/i/yNBi365564.jpg",
+"url"               :     "https://dl.dropbox.com/s/wkilusoc2yw2jbf/02-TVInter.w3u",
+"import": false
+},
+ 
+{
+"name"              :     "03-Sport",
+"image"             :     "https://www.i-pic.info/i/dwqi366325.jpg",
+"url"               :     "https://dl.dropbox.com/s/wil50drdx876m3a/03-SportTV.w3u",
+"import": false
+},
+
+{
+"name"              :     "04-FreeTVdd",
+"image"             :     "https://freetvdd.com/wp-content/uploads/2020/02/logo-freetvdd.com_.png",
+"url"               :     "https://dl.dropbox.com/s/63hfcxur0vc6a56/FreeTvdd.w3u",
+"import": false
+},
+
+{
+"name"              :     "05-Ufabet",
+"image"             :     "https://ufabetcompany.com/wp-content/uploads/2022/02/logo.png",
+"url"               :     "https://dl.dropbox.com/s/a24sue7ww7hb2vq/20221124-Ufabet.w3u",
+"import": false
+},
+
+{
+"name"              :     "06-Movie 1",
+"image"             :     "https://www.i-pic.info/i/Xks4367395.jpg",
+"url"               :     "https://dl.dropbox.com/s/a7adrqpm285anhi/04-Movie%201.w3u",
+"import": false
+},
+
+{
+"name"              :     "07-Movie 2",
+"image"             :     "https://www.i-pic.info/i/Xks4367395.jpg",
+"url"               :     "https://dl.dropbox.com/s/ud605lmk2hgpz8t/05-Movie%202.w3u",
+"import": false
+},
+
+{
+"name"              :     "08-SERiESMY",
+"image"             :     "https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url"               :     "https://pastebin.com/raw/kprYEkDW",
+"import": false
+},
+
+{
+"name"              :     "09-luxDu CHANEL",
+"image"             :     "https://image.makewebeasy.net/makeweb/0/M1sidwdt1/AboutUs/Dulux_thailand_logo.png",
+"url"               :     "https://pastebin.com/raw/yfW1Rpyy",
+"import": false
+},
+
+{
+"name"              :     "10-Guflix",
+"image"             :     "http://guflix.streaming-fast.com/logo/guflix.gif",
+"url"               :     "https://pastebin.com/ne9skYAf",
+"import": false
+},
+
+{
+"name"              :     "11-ANIME ZONE",
+"image"             :     "http://cm1.narvii.com/6718/aa7dfad59dabb0df51e135b60923b6fe22c4b5be_00.jpg",
+"url"               :     "https://pastebin.com/edit/WjbCqTG1",
+"import": false
+},
+
+{
+"name"              :     "12-Acestream",
+"image"             :     "https://drive.google.com/uc?id=1-Kze7JN4x1bUoV5L-aFfTQ2RorwSr2x0",
+"url"               :     "https://pastebin.com/raw/YU2iMcnJ",
+"import": false
+},
+
+{
+"name"              :     "13-Free Playlist",
+"image"             :     "https://sv1.picz.in.th/images/2021/12/15/6rDrYz.jpg",
+"url"               :     "https://freenote.biz/raw/bkV6QRJR4P",
+"import": false
+},
+
+{
+"name"              :     "14-🎬For.You🎶",
+"image"             :     "https://sv1.picz.in.th/images/2023/01/29/LhBFrz.jpg",
+"url"               :     "https://tinyurl.com/PL4You",
+"import": false
+},
+
+{
+"name"              :     "15-IPTV",
+"image"             :     "https://thumbs.dreamstime.com/b/iptv-badge-icon-logo-vector-stock-illustration-180182547.jpg",
+"url"               :     "https://dl.dropbox.com/s/t9c0n8oguawjauc/15-IPTV.m3u",
+"import": false
+},
+
+{
+"name"              :     "16-WE ARE ONE MEGAPL",
+"image"             :     "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png",
+"url"               :     "https://dl.dropbox.com/s/9nsf4us1o18e608/16-ONE%20MEGAPL.w3u",
+"import": false
+},
+
+{
+"name"              :     "17-MOVIES",
+"image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJcxgEJlKZ_S-qNpCZ3PsAHpnGGKk5RnsQQ&usqp=CAU",
+"url"               :     "https://docs.google.com/uc?export=download&id=1OI-WsMRHFuiQTj0xVNcL1TCAqWr7qBRH",
+"import": false
+},
+
+{
+"name"              :     "18-IPTV Society",
+"image"             :     "https://sv1.picz.in.th/images/2022/02/08/rdKgL9.png",
+"url"               :     "https://drive.google.com/uc?id=1C_DvhHvevu9v8yLI1CedFZG83GY2OI1V",
+"import": false
+},
+
+{
+"name"              :     "19-รวมหนังสงคราม",
+"image"             :     "https://drive.google.com/uc?id=1Dv5ri8xpzrM5R_O5PeuGAbdgVFLRldh0",
+"url"               :     "http://tiny.cc/9LhMoWaFood",
+"import": false
+},
+
+{
+"name"              :     "20-ขอให้มีรวยๆเฮงๆกันทุกคนนะครับ",
+"image"             :     "https://sv1.picz.in.th/images/2022/01/31/nvIfrf.jpg",
+"url"               :     "https://drive.google.com/uc?id=12SaP2NaDiWaSY0RXD8yM5db-nZ5C0s4x",
+"import": false
+},
+
+{
+"name"              :     "21-l2IPTV",
+"image"             :     "https://i.pinimg.com/originals/28/a9/2d/28a92d7d7d95458a60ff1878e9796131.jpg?fbclid=IwAR0MRThsngtkBP26OXqrUU7J_EeaglChzqxZUxXMKqy15MeY9rwhr34OyzI",
+"url"               :     "https://pastebin.com/raw/q5enpcpN",
+"import": false
+},
+
+{
+"name"              :     "22-ʘ‿ʘ  i3RAVO Documentary",
+"image"             :     "https://shorturl.asia/eqFTZ",
+"url"               :     "https://docs.google.com/uc?export=download&id=1yJlGoibluRwglDxSJspLiLUNtAB7tazq",
+"import": false
+},
+
+{
+"name"              :     "23-Ek Mung",
+"image"             :     "https://play-lh.googleusercontent.com/0jzQcQ-7rhBIi_JpTxjUJoCqIXjdu6AzM7IucLQWp4sY2vsx8Oiid2DXJM5wCTuPAZ4=s180-rw",
+"url"               :     "https://dl.dropbox.com/s/ss4j4tnv5hu51e0/23-Ek%20Mung.w3u",
+"import": false
+},
+
+{
+"name"              :     "24-PLAY TV PLUS",
+"image"             :     "https://i.gifer.com/TjbP.gif",
+"url"               :     "https://dl.dropbox.com/s/3tiatpqkw6r4z4u/24-play_tv_plus.w3u",
+"import": false
+},
+
+{
+"name"              :     "25-UdooFree",
+"image"             :     "https://dbdzm869oupei.cloudfront.net/img/sticker/large/15446.jpg",
+"url"               :     "https://dl.dropbox.com/s/zbx7gwhjpeem3db/25-UdooFree.w3u",
+"import": false
+},
+
+{
+"name"              :     "26-Bata-Playlists",
+"image"             :     "https://sv1.picz.in.th/images/2023/02/24/LIvNSR.png",
+"url"               :     "https://bit.ly/aeegbii38",
+"import": false
+},
+
+]
+}
